@@ -7,3 +7,5 @@ def fun2():
 	print "second fun in req1"
 def fun3():
     print "this is added by emp2"
+def fun4():
+    print "this is added by me"
